@@ -1,0 +1,6 @@
+Troveremo su GitHub esercizi di diversi livelli. Per superare l'esame, dobbiamo essere capaci a fare quelli di livello 3.
+Troveremo anche un tutorial su come usare Git.
+Troveremo una fork del repository degli esercizi.
+Installare il terminale di Linux su Windows usando wsl --install.
+Poi sudo apt install gh.
+O sudo snap install gh.
