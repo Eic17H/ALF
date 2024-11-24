@@ -2,5 +2,12 @@ Troveremo su GitHub esercizi di diversi livelli. Per superare l'esame, dobbiamo 
 Troveremo anche un tutorial su come usare Git.
 Troveremo una fork del repository degli esercizi.
 Installare il terminale di Linux su Windows usando wsl --install.
-Poi sudo apt install gh.
-O sudo snap install gh.
+Poi sudo apt install hg.
+O sudo snap install hg.
+Leggi la guida e installa tutte le dipendenze con sudo apt install o sudo apt-get install.
+cc è gcc.
+Poi opam install utop.
+
+#utop_stash "foo.ml" salva il file come foo.ml.
+Per uscire da utop si fa control+v.
+Per aprire il file salvato fai code "foo.ml".

@@ -1,0 +1,9 @@
+int + int = int
+float / float = float
+fun(int->int) | int = int
+fun(int->float) | int = float
+fun(int->fun(int->int)) | int = fun(int->int)
+
+fun(int->fun(int->int)) | int | int =
+        fun(int->int)   | int =
+                       int
