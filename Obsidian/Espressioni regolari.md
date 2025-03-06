@@ -1,0 +1,1 @@
+Un modo per usare le espressioni regolari su Linux è [[grep]].
